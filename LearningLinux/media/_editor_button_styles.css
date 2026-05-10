@@ -1,0 +1,104 @@
+.bg_yellow{
+background-color: #ffff00 !important;
+}
+
+.nightMode .bg_yellow{
+background-color: #ffff00 !important;
+}
+
+.bg_green{
+background-color: #00ff00 !important;
+}
+
+.nightMode .bg_green{
+background-color: #00ff00 !important;
+}
+
+.bg_blue{
+background-color: #00ffff !important;
+}
+
+.nightMode .bg_blue{
+background-color: #00ffff !important;
+}
+
+.bg_red{
+background-color: #fd9796 !important;
+}
+
+.nightMode .bg_red{
+background-color: #fd9796 !important;
+}
+
+.fg_green{
+color: #00aa00 !important;
+}
+
+.nightMode .fg_green{
+color: #00aa00 !important;
+}
+
+.fg_blue{
+color: #0000ff !important;
+}
+
+.nightMode .fg_blue{
+color: #0000ff !important;
+}
+
+.fg_red{
+color: #ff0000 !important;
+}
+
+.nightMode .fg_red{
+color: #ff0000 !important;
+}
+
+.bold_bigger{
+font-weight: bold;font-size: 125%;
+}
+
+.nightMode .bold_bigger{
+font-weight: bold;font-size: 125%;
+}
+
+.bold_underlined{
+font-weight: bold; text-decoration: underline;
+}
+
+.nightMode .bold_underlined{
+font-weight: bold; text-decoration: underline;
+}
+
+.bold_red{
+font-weight: bold; color: red;
+}
+
+.nightMode .bold_red{
+font-weight: bold; color: #da0000;
+}
+
+.red_box{
+border:solid; border-color:red; background-color: #ffc5c5; margin-left:40px;
+}
+
+.nightMode .red_box{
+border:solid; border-color:red; background-color: #ffc5c5; margin-left:40px;
+}
+
+.small_and_narrow{
+font-size:80% !important; line-height: 80%;
+}
+
+.nightMode .small_and_narrow{
+font-size:80% !important; line-height: 80%;
+}
+
+.font_size_80{
+font-size: 80% !important;
+}
+
+.font_size_130{
+font-size: 130% !important;
+}
+
